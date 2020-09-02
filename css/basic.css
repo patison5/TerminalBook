@@ -21,16 +21,16 @@ body{
 }
 
 .flipbook-viewport .flipbook{
-	width:922px;
-	height:600px;
-	left:-461px;
-	top:-300px;
+	width:1770px;
+	height:990px;
+	/*left:-885px;*/
+	top:-495px;
 }
 
 .flipbook-viewport .page{
-	width:461px;
-	height:600px;
-	background-color:white;
+	width:885px;
+	height:990px;
+	/*background-color:white;*/
 	background-repeat:no-repeat;
 	background-size:100% 100%;
 }
